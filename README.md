@@ -1,4 +1,4 @@
-# crypto_tracker_starter
+# Crypto Tracker Starter
 
 A new Flutter project.
 
